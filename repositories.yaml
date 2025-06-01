@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
+$schema: "https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json"
+
+categories:
+    - name: Agents
+      repos:
+        - url: https://github.com/smol-ai/developer
+        - url: https://github.com/Aider-AI/aider
+        - url: https://github.com/seahyinghang8/blinky
+        - url: https://github.com/AntonOsika/gpt-engineer
+          description: 'CLI platform to experiment with codegen'
+        - url: https://github.com/joshpxyne/gpt-migrate
+        - url: https://github.com/melih-unsal/DemoGPT
+        - url: https://github.com/kuafuai/DevOpsGPT
+    - name: App generators
+      repos:
+        - url: https://github.com/stackblitz-labs/bolt.diy
+        - url: https://github.com/srcbookdev/srcbook
+    - name: Assistants
+      subcategories:
+        - name: Command-line
+          repos:
+            - url: https://github.com/Strawberry-Computer/poorcoder
+            - url: https://github.com/BrodaNoel/cmd-ai
+        - name: IDE extensions
+          repos:
+            - url: https://github.com/smallcloudai/refact
+            - url: https://github.com/codota/TabNine
+            - url: https://github.com/rubberduck-ai/rubberduck-vscode
+        - name: Web-based
+          repos:
+            - url: https://github.com/silvanmelchior/IncognitoPilot
+    - name: Documentation
+      repos:
+        - url: https://github.com/eli64s/readme-ai
+    - name: OpenAI plugins
+      repos:
+        - url: https://github.com/kesor/chatgpt-code-plugin
+    - name: PR agents
+      repos:
+        - url: https://github.com/sweepai/sweep
+        - url: https://github.com/mattzcarey/shippie
+        - url: https://github.com/qodo-ai/pr-agent
+        - url: https://github.com/keerthanpg/SwePT
+        - url: https://github.com/Yuyz0112/dewhale
+    - name: Shell assistants
+      repos:
+        - url: https://github.com/beyimjan/shell-whiz
+    - name: Testing
+      repos:
+        - url: https://github.com/codeintegrity-ai/mutahunter
+    - name: UI generators
+      repos:
+        - url: https://github.com/rapidpages/rapidpages
