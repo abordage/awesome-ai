@@ -1,7 +1,7 @@
 # Awesome AI
 
-![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)
-![License](https://img.shields.io/github/license/abordage/awesome-ai)
+[![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
+[![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
 This curated list is based on several awesome lists and community contributions.
 All repositories are automatically verified daily to exclude abandoned, archived, or deleted projects, as well as repositories that are not mature enough.
