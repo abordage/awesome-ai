@@ -3,14 +3,12 @@
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
-## About This List
-
 **Automated. Curated. Ranked.**
 
 This awesome list is automatically maintained with daily GitHub API updates.
 Projects are re-ranked daily based on current activity metrics.
 
-**Daily process:** Review community PRs → Check activity → Filter active projects → Recalculate rankings → Update list
+**Daily process:** Get community PRs → Check activity → Filter active projects → Recalculate rankings → Update list
 
 - [Agents](#agents)
 - [App generators](#app-generators)
