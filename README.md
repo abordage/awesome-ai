@@ -5,10 +5,9 @@
 
 **Automated. Curated. Ranked.**
 
-This awesome list is automatically maintained with daily GitHub API updates.
-Projects are re-ranked daily based on current activity metrics.
+AI and machine learning projects hosted on GitHub.This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
 
-**Daily process:** Get community PRs → Check activity → Filter active projects → Recalculate rankings → Update list
+**Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
 - [Agents](#agents)
 - [App generators](#app-generators)
