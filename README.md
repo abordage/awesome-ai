@@ -3,9 +3,14 @@
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
-This curated list is based on several awesome lists and community contributions.
-All repositories are automatically verified daily to exclude abandoned, archived, or deleted projects, as well as repositories that are not mature enough.
-They are organized by a ranking system that evaluates stars, forks, and community activity.
+## About This List
+
+**Automated. Curated. Ranked.**
+
+This awesome list is automatically maintained with daily GitHub API updates.
+Projects are re-ranked daily based on current activity metrics.
+
+**Daily process:** Review community PRs → Check activity → Filter active projects → Recalculate rankings → Update list
 
 - [Agents](#agents)
 - [App generators](#app-generators)
