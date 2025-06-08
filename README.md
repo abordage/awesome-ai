@@ -5,7 +5,7 @@
 
 **Automated. Curated. Ranked.**
 
-AI and machine learning projects hosted on GitHub.This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
+AI and machine learning projects hosted on GitHub. This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
@@ -21,12 +21,18 @@ AI and machine learning projects hosted on GitHub.This awesome list is automatic
 - [Shell assistants](#shell-assistants)
 - [Testing](#testing)
 - [UI generators](#ui-generators)
+- [Other](#other)
 
 
 ## Agents
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. ☆`73,530`
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`55,995`
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`54,292`
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) — RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. ☆`37,960`
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`34,021`
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. ☆`31,479`
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`13,746`
 - [smol-ai/developer](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,012`
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) — Easily migrate your codebase from one framework or language to another. ☆`6,956`
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. ☆`5,918`
@@ -70,6 +76,10 @@ AI and machine learning projects hosted on GitHub.This awesome list is automatic
 ## UI generators
 
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) — Generate React and Tailwind components using AI ☆`1,226`
+## Other
+
+- [clidey/whodb](https://github.com/clidey/whodb) — A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface ☆`3,327`
+- [av/harbor](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`1,796`
 
 
 ## Contributing
