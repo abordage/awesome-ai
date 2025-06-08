@@ -17,7 +17,12 @@ categories:
         - url: https://github.com/nomic-ai/gpt4all
         - url: https://github.com/plandex-ai/plandex
         - url: https://github.com/QuivrHQ/quivr
+        - url: https://github.com/splx-ai/agentic-radar
+        - url: https://github.com/Strawberry-Computer/vibe-compiler
           description: 'RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss.'
+    - name: API generators
+      repos:
+        - url: https://github.com/centralmind/gateway
     - name: App generators
       repos:
         - url: https://github.com/stackblitz-labs/bolt.diy
