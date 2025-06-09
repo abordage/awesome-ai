@@ -55,6 +55,7 @@ categories:
             - url: https://github.com/google-gemini-php/laravel
             - url: https://github.com/grok-php/laravel
             - url: https://github.com/halilcosdu/laravel-slower
+              description: 'Laravel Slower: Optimize Your DB Queries with AI'
     - name: Documentation
       repos:
         - url: https://github.com/eli64s/readme-ai
