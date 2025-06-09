@@ -41,6 +41,20 @@ categories:
         - name: Web-based
           repos:
             - url: https://github.com/silvanmelchior/IncognitoPilot
+    - name: Backend
+      subcategories:
+        - name: Go
+          repos:
+            - url: https://github.com/googleapis/go-genai
+            - url: https://github.com/mark3labs/mcp-go
+        - name: Laravel
+          repos:
+            - url: https://github.com/php-mcp/laravel
+            - url: https://github.com/opgginc/laravel-mcp-server
+            - url: https://github.com/kargnas/laravel-ai-translator
+            - url: https://github.com/google-gemini-php/laravel
+            - url: https://github.com/grok-php/laravel
+            - url: https://github.com/halilcosdu/laravel-slower
     - name: Documentation
       repos:
         - url: https://github.com/eli64s/readme-ai
