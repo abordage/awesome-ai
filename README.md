@@ -32,9 +32,9 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. ☆`76,389`
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,461`
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`54,715`
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`54,716`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) — Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ☆`38,286`
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`36,696`
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`36,715`
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. ☆`32,070`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`14,312`
 - [smol-ai/developer](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,135`
@@ -49,8 +49,8 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [centralmind/gateway](https://github.com/centralmind/gateway) — Universal MCP-Server for your Databases optimized for LLMs and AI-Agents. ☆`448`
 ## App generators
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`17,456`
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,368`
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`17,465`
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,370`
 ## Assistants
 
 ### Command-line
@@ -59,8 +59,8 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [BrodaNoel/cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Natural language shell command generator and executor powered by AI ☆`24`
 ### IDE extensions
 
-- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,797`
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,193`
+- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,798`
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,195`
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) — Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API. ☆`627`
 ### Web-based
 
@@ -81,13 +81,13 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [grok-php/laravel](https://github.com/grok-php/laravel) — Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity. ☆`149`
 ## Documentation
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,391`
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,393`
 ## OpenAI plugins
 
 - [kesor/chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) — Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code ☆`239`
 ## PR agents
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — PR-Agent (Qodo Merge open-source): An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! ☆`8,657`
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — PR-Agent (Qodo Merge open-source): An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! ☆`8,660`
 - [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,583`
 - [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,226`
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev. ☆`1,523`
