@@ -30,62 +30,62 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 ## Agents
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. ☆`76,695`
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,595`
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`54,871`
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) — Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ☆`38,443`
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`37,472`
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. ☆`32,301`
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`14,438`
-- [smol-ai/developer](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,156`
-- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) — Easily migrate your codebase from one framework or language to another. ☆`6,992`
-- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. ☆`5,957`
-- [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) — Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place. ☆`1,862`
-- [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`711`
-- [seahyinghang8/blinky](https://github.com/seahyinghang8/blinky) — An open-source debugging agent in VSCode ☆`77`
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,599`
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`54,873`
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) — Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ☆`38,448`
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`37,514`
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. ☆`32,307`
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`14,439`
+- [smol-ai/developer](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,157`
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) — Easily migrate your codebase from one framework or language to another. ☆`6,991`
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. ☆`5,956`
+- [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) — Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place. ☆`1,863`
+- [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`713`
+- [seahyinghang8/blinky](https://github.com/seahyinghang8/blinky) — An open-source debugging agent in VSCode ☆`78`
 - [Strawberry-Computer/vibe-compiler](https://github.com/Strawberry-Computer/vibe-compiler) — RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. ☆`42`
 ## API generators
 
 - [centralmind/gateway](https://github.com/centralmind/gateway) — Universal MCP-Server for your Databases optimized for LLMs and AI-Agents. ☆`473`
 ## App generators
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`17,897`
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,394`
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`17,944`
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,395`
 ## Assistants
 
 ### Command-line
 
-- [Strawberry-Computer/poorcoder](https://github.com/Strawberry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`35`
+- [Strawberry-Computer/poorcoder](https://github.com/Strawberry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`36`
 - [BrodaNoel/cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Natural language shell command generator and executor powered by AI ☆`29`
 ### IDE extensions
 
-- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,803`
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,285`
+- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,806`
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,291`
 - [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) — Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API. ☆`634`
 ## Backend
 
 ### Go
 
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. ☆`7,196`
-- [googleapis/go-genai](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`753`
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. ☆`7,207`
+- [googleapis/go-genai](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`761`
 ### Laravel
 
 - [google-gemini-php/laravel](https://github.com/google-gemini-php/laravel) — Gemini PHP for Laravel is a community-maintained PHP API client that allows you to interact with the Gemini AI API. ☆`501`
-- [php-mcp/laravel](https://github.com/php-mcp/laravel) — An SDK building Laravel MCP servers ☆`431`
+- [php-mcp/laravel](https://github.com/php-mcp/laravel) — An SDK building Laravel MCP servers ☆`434`
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) — Laravel Slower: Optimize Your DB Queries with AI ☆`373`
 - [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) — A Laravel package for implementing secure Model Context Protocol servers using Streamable HTTP and SSE transport, providing real-time communication and a scalable tool system for enterprise environments. ☆`319`
 - [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — High quality automatic translate your language files into many languages using AI like Claude, GPT and etc. ☆`236`
 - [grok-php/laravel](https://github.com/grok-php/laravel) — Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity. ☆`153`
 ## Documentation
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,513`
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,517`
 ## OpenAI plugins
 
 - [kesor/chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) — Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code ☆`239`
 ## PR agents
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — PR-Agent: An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! (For more advanced: check Qodo Merge) ☆`8,957`
-- [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,596`
-- [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,250`
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — PR-Agent: An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! (For more advanced: check Qodo Merge) ☆`8,975`
+- [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,595`
+- [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,252`
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev. ☆`1,531`
 ## Shell assistants
 
@@ -95,11 +95,11 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) — Open Source, Language Agnostic Mutation Testing ☆`284`
 ## UI generators
 
-- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) — Generate React and Tailwind components using AI ☆`1,232`
+- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) — Generate React and Tailwind components using AI ☆`1,233`
 ## Other
 
-- [clidey/whodb](https://github.com/clidey/whodb) — A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface ☆`3,865`
-- [av/harbor](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`2,063`
+- [clidey/whodb](https://github.com/clidey/whodb) — A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface ☆`3,870`
+- [av/harbor](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`2,065`
 
 
 ## Contributing
