@@ -1,155 +1,143 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
-$schema: "https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json"
-
+$schema: https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
 categories:
-    - name: Agents
-      repos:
-        - url: https://github.com/smol-ai/developer
-        - url: https://github.com/Aider-AI/aider
-        - url: https://github.com/seahyinghang8/blinky
-        - url: https://github.com/AntonOsika/gpt-engineer
-          description: 'CLI platform to experiment with codegen'
-        - url: https://github.com/joshpxyne/gpt-migrate
-        - url: https://github.com/melih-unsal/DemoGPT
-        - url: https://github.com/kuafuai/DevOpsGPT
-        - url: https://github.com/zylon-ai/private-gpt
-        - url: https://github.com/mckaywrigley/chatbot-ui
-        - url: https://github.com/nomic-ai/gpt4all
-        - url: https://github.com/plandex-ai/plandex
-        - url: https://github.com/QuivrHQ/quivr
-        - url: https://github.com/splx-ai/agentic-radar
-        - url: https://github.com/dagger/container-use
-        - url: https://github.com/stravu/crystal
-        - url: https://github.com/Nayjest/Gito
-        - url: https://github.com/Strawberry-Computer/vibe-compiler
-          description: 'RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss.'
-    - name: API generators
-      repos:
-        - url: https://github.com/centralmind/gateway
-    - name: App generators
-      repos:
-        - url: https://github.com/stackblitz-labs/bolt.diy
-        - url: https://github.com/srcbookdev/srcbook
-    - name: Assistants
-      subcategories:
-        - name: Command-line
-          repos:
-            - url: https://github.com/Strawberry-Computer/poorcoder
-            - url: https://github.com/BrodaNoel/cmd-ai
-        - name: IDE extensions
-          repos:
-            - url: https://github.com/smallcloudai/refact
-            - url: https://github.com/codota/TabNine
-            - url: https://github.com/rubberduck-ai/rubberduck-vscode
-        - name: Web-based
-          repos:
-            - url: https://github.com/silvanmelchior/IncognitoPilot
-    - name: Backend
-      subcategories:
-        - name: Go
-          repos:
-            - url: https://github.com/googleapis/go-genai
-            - url: https://github.com/mark3labs/mcp-go
-        - name: Laravel
-          repos:
-            - url: https://github.com/php-mcp/laravel
-            - url: https://github.com/opgginc/laravel-mcp-server
-            - url: https://github.com/kargnas/laravel-ai-translator
-            - url: https://github.com/google-gemini-php/laravel
-            - url: https://github.com/grok-php/laravel
-            - url: https://github.com/tott/laravel-tall-claude-ai-configs
-            - url: https://github.com/halilcosdu/laravel-slower
-              description: 'Laravel Slower: Optimize Your DB Queries with AI'
-    - name: Claude Code
-      repos:
-        - url: https://github.com/icanhasjonas/run-claude-docker
-        - url: https://github.com/JSONbored/claudepro-directory
-        - url: https://github.com/viveknair/ccoutputstyles
-        - url: https://github.com/ayoubben18/ab-method
-        - url: https://github.com/automazeio/ccpm
-        - url: https://github.com/OneRedOak/claude-code-workflows
-        - url: https://github.com/Helmi/claude-simone
-        - url: https://github.com/Veraticus/cc-tools
-        - url: https://github.com/nyatinte/ccexp
-        - url: https://github.com/eckardt/cchistory
-        - url: https://github.com/Brads3290/cclogviewer
-        - url: https://github.com/davila7/claude-code-templates
-        - url: https://github.com/claude-did-this/claude-hub
-        - url: https://github.com/pchalasani/claude-code-tools
-        - url: https://github.com/carlrannaberg/claudekit
-        - url: https://github.com/marcindulak/stt-mcp-server-linux
-        - url: https://github.com/SuperClaude-Org/SuperClaude_Framework
-        - url: https://github.com/Piebald-AI/tweakcc
-        - url: https://github.com/manzaltu/claude-code-ide.el
-        - url: https://github.com/stevemolitor/claude-code.el
-        - url: https://github.com/greggh/claude-code.nvim
-        - url: https://github.com/stravu/crystal
-        - url: https://github.com/ryoppippi/ccusage
-        - url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
-        - url: https://github.com/sculptdotfun/viberank
-        - url: https://github.com/ruvnet/claude-flow
-        - url: https://github.com/smtg-ai/claude-squad
-        - url: https://github.com/parruda/claude-swarm
-        - url: https://github.com/eyaltoledano/claude-task-master
-        - url: https://github.com/slopus/happy
-        - url: https://github.com/dtormoen/tsk
-        - url: https://github.com/sirmalloc/ccstatusline
-        - url: https://github.com/rz1989s/claude-code-statusline
-        - url: https://github.com/Owloops/claude-powerline
-        - url: https://github.com/dazuiba/CCNotify
-        - url: https://github.com/GowayLee/cchooks
-        - url: https://github.com/beyondcode/claude-hooks-sdk
-        - url: https://github.com/johnlindquist/claude-hooks
-        - url: https://github.com/nizos/tdd-guard
-        - url: https://github.com/bartolli/claude-code-typescript-hooks
-        - url: https://github.com/anthropics/claude-quickstarts
-        - url: https://github.com/anthropics/claude-code-action
-          description: 'A general-purpose Claude Code action for GitHub PRs and issues'
-    - name: Documentation
-      repos:
-        - url: https://github.com/eli64s/readme-ai
-    - name: Gemini
-      repos:
-        - url: https://github.com/google-gemini/gemini-cli
-        - url: https://github.com/google-gemini/cookbook
-        - url: https://github.com/google-github-actions/run-gemini-cli
-        - url: https://github.com/Piebald-AI/gemini-desktop
-        - url: https://github.com/gzzhongqi/geminicli2api
-        - url: https://github.com/Brioch/gemini-openai-proxy
-        - url: https://github.com/GewoonJaap/gemini-cli-openai
-        - url: https://github.com/nettee/gemini-cli-proxy
-        - url: https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge
-        - url: https://github.com/Jasonzhangf/gemini-cli-router
-        - url: https://github.com/automateyournetwork/GeminiCLI_Slash_Listen
-        - url: https://github.com/amitkmaraj/gemini-cli-custom-slash-commands
-        - url: https://github.com/clduab11/gemini-flow
-        - url: https://github.com/tanaikech/ToolsForMCPServer
-        - url: https://github.com/jamubc/gemini-mcp-tool
-        - url: https://github.com/choplin/mcp-gemini-cli
-        - url: https://github.com/openmule/gacua
-        - url: https://github.com/Theopsguide/gemini-code-flow
-    - name: OpenAI plugins
-      repos:
-        - url: https://github.com/kesor/chatgpt-code-plugin
-    - name: PR agents
-      repos:
-        - url: https://github.com/sweepai/sweep
-        - url: https://github.com/mattzcarey/shippie
-        - url: https://github.com/qodo-ai/pr-agent
-        - url: https://github.com/keerthanpg/SwePT
-        - url: https://github.com/Yuyz0112/dewhale
-    - name: Shell assistants
-      repos:
-        - url: https://github.com/beyimjan/shell-whiz
-        - url: https://github.com/closedLoop-technologies/autocomplete-sh
-        - url: https://github.com/pmusolino/AI-Git-Narrator
-    - name: Testing
-      repos:
-        - url: https://github.com/codeintegrity-ai/mutahunter
-    - name: UI generators
-      repos:
-        - url: https://github.com/rapidpages/rapidpages
-    - name: Other
-      repos:
-        - url: https://github.com/av/harbor
-        - url: https://github.com/clidey/whodb
+  - name: AI Coding Agents
+    subcategories:
+      - name: General Purpose
+        repos:
+          - url: https://github.com/smol-ai/developer
+          - url: https://github.com/Aider-AI/aider
+          - url: https://github.com/seahyinghang8/blinky
+          - url: https://github.com/AntonOsika/gpt-engineer
+            description: CLI platform to experiment with codegen
+          - url: https://github.com/joshpxyne/gpt-migrate
+          - url: https://github.com/melih-unsal/DemoGPT
+          - url: https://github.com/kuafuai/DevOpsGPT
+          - url: https://github.com/zylon-ai/private-gpt
+          - url: https://github.com/mckaywrigley/chatbot-ui
+          - url: https://github.com/nomic-ai/gpt4all
+          - url: https://github.com/plandex-ai/plandex
+          - url: https://github.com/QuivrHQ/quivr
+          - url: https://github.com/splx-ai/agentic-radar
+          - url: https://github.com/stravu/crystal
+          - url: https://github.com/Nayjest/Gito
+          - url: https://github.com/Strawberry-Computer/vibe-compiler
+            description: 'RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama.
+        Any Vectorstore: PGVector, Faiss.'
+          - url: https://github.com/silvanmelchior/IncognitoPilot
+      - name: Claude Code
+        repos:
+          - url: https://github.com/icanhasjonas/run-claude-docker
+          - url: https://github.com/JSONbored/claudepro-directory
+          - url: https://github.com/viveknair/ccoutputstyles
+          - url: https://github.com/ayoubben18/ab-method
+          - url: https://github.com/automazeio/ccpm
+          - url: https://github.com/OneRedOak/claude-code-workflows
+          - url: https://github.com/Helmi/claude-simone
+          - url: https://github.com/Veraticus/cc-tools
+          - url: https://github.com/nyatinte/ccexp
+          - url: https://github.com/eckardt/cchistory
+          - url: https://github.com/Brads3290/cclogviewer
+          - url: https://github.com/davila7/claude-code-templates
+          - url: https://github.com/claude-did-this/claude-hub
+          - url: https://github.com/pchalasani/claude-code-tools
+          - url: https://github.com/carlrannaberg/claudekit
+          - url: https://github.com/SuperClaude-Org/SuperClaude_Framework
+          - url: https://github.com/Piebald-AI/tweakcc
+          - url: https://github.com/ryoppippi/ccusage
+          - url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+          - url: https://github.com/sculptdotfun/viberank
+          - url: https://github.com/ruvnet/claude-flow
+          - url: https://github.com/smtg-ai/claude-squad
+          - url: https://github.com/parruda/claude-swarm
+          - url: https://github.com/slopus/happy
+          - url: https://github.com/dtormoen/tsk
+          - url: https://github.com/sirmalloc/ccstatusline
+          - url: https://github.com/rz1989s/claude-code-statusline
+          - url: https://github.com/Owloops/claude-powerline
+          - url: https://github.com/dazuiba/CCNotify
+          - url: https://github.com/GowayLee/cchooks
+          - url: https://github.com/beyondcode/claude-hooks-sdk
+          - url: https://github.com/johnlindquist/claude-hooks
+          - url: https://github.com/nizos/tdd-guard
+          - url: https://github.com/bartolli/claude-code-typescript-hooks
+          - url: https://github.com/anthropics/claude-quickstarts
+          - url: https://github.com/anthropics/claude-code-action
+            description: A general-purpose Claude Code action for GitHub PRs and issues
+      - name: Gemini CLI
+        repos:
+          - url: https://github.com/google-gemini/gemini-cli
+          - url: https://github.com/google-gemini/cookbook
+          - url: https://github.com/google-github-actions/run-gemini-cli
+          - url: https://github.com/Piebald-AI/gemini-desktop
+          - url: https://github.com/gzzhongqi/geminicli2api
+          - url: https://github.com/Brioch/gemini-openai-proxy
+          - url: https://github.com/GewoonJaap/gemini-cli-openai
+          - url: https://github.com/nettee/gemini-cli-proxy
+          - url: https://github.com/Jasonzhangf/gemini-cli-router
+          - url: https://github.com/automateyournetwork/GeminiCLI_Slash_Listen
+          - url: https://github.com/amitkmaraj/gemini-cli-custom-slash-commands
+          - url: https://github.com/clduab11/gemini-flow
+          - url: https://github.com/openmule/gacua
+          - url: https://github.com/Theopsguide/gemini-code-flow
+      - name: PR & Review
+        repos:
+          - url: https://github.com/sweepai/sweep
+          - url: https://github.com/mattzcarey/shippie
+          - url: https://github.com/qodo-ai/pr-agent
+          - url: https://github.com/keerthanpg/SwePT
+          - url: https://github.com/Yuyz0112/dewhale
+  - name: IDE & Editor
+    subcategories:
+      - name: Extensions
+        repos:
+          - url: https://github.com/smallcloudai/refact
+          - url: https://github.com/codota/TabNine
+          - url: https://github.com/rubberduck-ai/rubberduck-vscode
+          - url: https://github.com/kesor/chatgpt-code-plugin
+      - name: Neovim
+        repos:
+          - url: https://github.com/greggh/claude-code.nvim
+      - name: Emacs
+        repos:
+          - url: https://github.com/manzaltu/claude-code-ide.el
+          - url: https://github.com/stevemolitor/claude-code.el
+  - name: CLI Assistants
+    repos:
+      - url: https://github.com/Strawberry-Computer/poorcoder
+      - url: https://github.com/BrodaNoel/cmd-ai
+      - url: https://github.com/beyimjan/shell-whiz
+      - url: https://github.com/closedLoop-technologies/autocomplete-sh
+      - url: https://github.com/pmusolino/AI-Git-Narrator
+  - name: Generators
+    subcategories:
+      - name: App
+        repos:
+          - url: https://github.com/stackblitz-labs/bolt.diy
+          - url: https://github.com/srcbookdev/srcbook
+      - name: UI
+        repos:
+          - url: https://github.com/rapidpages/rapidpages
+  - name: SDKs & Libraries
+    subcategories:
+      - name: Go
+        repos:
+          - url: https://github.com/googleapis/go-genai
+      - name: PHP & Laravel
+        repos:
+          - url: https://github.com/kargnas/laravel-ai-translator
+          - url: https://github.com/google-gemini-php/laravel
+          - url: https://github.com/grok-php/laravel
+          - url: https://github.com/tott/laravel-tall-claude-ai-configs
+          - url: https://github.com/halilcosdu/laravel-slower
+            description: 'Laravel Slower: Optimize Your DB Queries with AI'
+  - name: Documentation
+    repos:
+      - url: https://github.com/eli64s/readme-ai
+  - name: Testing
+    repos:
+      - url: https://github.com/codeintegrity-ai/mutahunter
+  - name: Other
+    repos:
+      - url: https://github.com/av/harbor
+      - url: https://github.com/clidey/whodb
