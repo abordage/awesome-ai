@@ -9,26 +9,30 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
-- [Agents](#agents)
-- [API generators](#api-generators)
-- [App generators](#app-generators)
-- [Assistants](#assistants)
-  - [Command-line](#command-line)
-  - [IDE extensions](#ide-extensions)
-- [Backend](#backend)
+- [AI Coding Agents](#ai-coding-agents)
+  - [General Purpose](#general-purpose)
+  - [Claude Code](#claude-code)
+  - [Gemini CLI](#gemini-cli)
+  - [PR & Review](#pr-&-review)
+- [IDE & Editor](#ide-&-editor)
+  - [Extensions](#extensions)
+  - [Neovim](#neovim)
+  - [Emacs](#emacs)
+- [CLI Assistants](#cli-assistants)
+- [Generators](#generators)
+  - [App](#app)
+  - [UI](#ui)
+- [SDKs & Libraries](#sdks-&-libraries)
   - [Go](#go)
-  - [Laravel](#laravel)
-- [Claude Code](#claude-code)
+  - [PHP & Laravel](#php-&-laravel)
 - [Documentation](#documentation)
-- [Gemini](#gemini)
-- [PR agents](#pr-agents)
-- [Shell assistants](#shell-assistants)
 - [Testing](#testing)
-- [UI generators](#ui-generators)
 - [Other](#other)
 
 
-## Agents
+## AI Coding Agents
+
+### General Purpose
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. ☆`76,986`
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,925`
@@ -40,49 +44,14 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [smol-ai/developer](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,195`
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) — Easily migrate your codebase from one framework or language to another. ☆`6,995`
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. ☆`5,966`
-- [dagger/container-use](https://github.com/dagger/container-use) — Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. ☆`3,360`
 - [stravu/crystal](https://github.com/stravu/crystal) — Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app. ☆`2,629`
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) — Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place. ☆`1,881`
 - [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`849`
 - [Nayjest/Gito](https://github.com/Nayjest/Gito) — An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. ☆`81`
 - [seahyinghang8/blinky](https://github.com/seahyinghang8/blinky) — An open-source debugging agent in VSCode ☆`81`
 - [Strawberry-Computer/vibe-compiler](https://github.com/Strawberry-Computer/vibe-compiler) — RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. ☆`52`
-## API generators
+### Claude Code
 
-- [centralmind/gateway](https://github.com/centralmind/gateway) — Universal MCP-Server for your Databases optimized for LLMs and AI-Agents. ☆`505`
-## App generators
-
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`18,721`
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,428`
-## Assistants
-
-### Command-line
-
-- [Strawberry-Computer/poorcoder](https://github.com/Strawberry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`49`
-- [BrodaNoel/cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Natural language shell command generator and executor powered by AI ☆`33`
-### IDE extensions
-
-- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,814`
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,420`
-- [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) — Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API. ☆`630`
-## Backend
-
-### Go
-
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. ☆`7,861`
-- [googleapis/go-genai](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`943`
-### Laravel
-
-- [google-gemini-php/laravel](https://github.com/google-gemini-php/laravel) — Gemini PHP for Laravel is a community-maintained PHP API client that allows you to interact with the Gemini AI API. ☆`569`
-- [php-mcp/laravel](https://github.com/php-mcp/laravel) — An SDK building Laravel MCP servers ☆`466`
-- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) — Laravel Slower: Optimize Your DB Queries with AI ☆`395`
-- [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) — A Laravel package for implementing secure Model Context Protocol servers using Streamable HTTP and SSE transport, providing real-time communication and a scalable tool system for enterprise environments. ☆`327`
-- [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — High quality automatic translate your language files into many languages using AI like Claude, GPT and etc. ☆`241`
-- [grok-php/laravel](https://github.com/grok-php/laravel) — Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity. ☆`162`
-- [tott/laravel-tall-claude-ai-configs](https://github.com/tott/laravel-tall-claude-ai-configs) — AI Assisted Laravel TALL stack coding configuration for Claude Code ☆`35`
-## Claude Code
-
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) — An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ☆`24,407`
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. ☆`19,452`
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`13,671`
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API ☆`12,787`
@@ -94,16 +63,12 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp. ☆`5,396`
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) — A general-purpose Claude Code action for GitHub PRs and issues ☆`4,436`
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) — The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. ☆`3,326`
-- [stravu/crystal](https://github.com/stravu/crystal) — Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app. ☆`2,629`
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. ☆`2,463`
-- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) — Seamless integration between Claude Code AI assistant and Neovim ☆`1,646`
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`1,617`
 - [parruda/swarm](https://github.com/parruda/swarm) — Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams. ☆`1,542`
-- [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) — Claude Code IDE integration for Emacs ☆`1,200`
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms. ☆`643`
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline statusline for Claude Code ☆`623`
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) — Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents. ☆`584`
-- [stevemolitor/claude-code.el](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`555`
 - [Helmi/claude-simone](https://github.com/Helmi/claude-simone) — A project management framework for AI-assisted development with Claude Code ☆`521`
 - [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) — A toolkit of custom commands, hooks, and utilities for Claude Code ☆`498`
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) — A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions. ☆`311`
@@ -122,15 +87,10 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [Brads3290/cclogviewer](https://github.com/Brads3290/cclogviewer) — Review Claude Code .jsonl files with a nice HTML UI ☆`55`
 - [Veraticus/cc-tools](https://github.com/Veraticus/cc-tools) — Claude Code tools ☆`38`
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) — CLI tool and template gallery for customizing Claude Code output styles with pre-built templates ☆`50`
-- [marcindulak/stt-mcp-server-linux](https://github.com/marcindulak/stt-mcp-server-linux) — Local speech-to-text MCP server for Tmux on Linux (for use not only with Claude Code) ☆`17`
-## Documentation
-
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,828`
-## Gemini
+### Gemini CLI
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. ☆`88,571`
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`15,966`
-- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) — MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding ☆`1,781`
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`1,628`
 - [GewoonJaap/gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) — Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers ☆`780`
 - [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api) —  ☆`432`
@@ -139,30 +99,64 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [Theopsguide/gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow) — AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet ☆`134`
 - [amitkmaraj/gemini-cli-custom-slash-commands](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) — Some great custom slash commands to supercharge your workflow ☆`130`
 - [nettee/gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) — Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API! ☆`127`
-- [Intelligent-Internet/gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) —  ☆`121`
 - [openmule/gacua](https://github.com/openmule/gacua) — The World's First Out-of-the-Box Computer Use Agent Powered by Gemini-CLI @openmule ☆`111`
-- [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) — The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/or leveraged in new ways by using them as the MCP server. The Gemini CLI and other MCP clients will be useful in achieving this. ☆`83`
-- [choplin/mcp-gemini-cli](https://github.com/choplin/mcp-gemini-cli) —  ☆`90`
 - [Brioch/gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) — Gemini CLI wrapper to serve Gemini models through an OpenAI-compatible API ☆`44`
 - [Jasonzhangf/gemini-cli-router](https://github.com/Jasonzhangf/gemini-cli-router) — routing your gemini-cli to openai 3rd party providers ☆`19`
 - [automateyournetwork/GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) — A /listen feature for Gemini CLI ☆`16`
-## PR agents
+### PR & Review
 
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website. ☆`9,685`
 - [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,622`
 - [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,311`
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev. ☆`1,545`
-## Shell assistants
+## IDE & Editor
+
+### Extensions
+
+- [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,814`
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,420`
+- [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) — Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API. ☆`630`
+### Neovim
+
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) — Seamless integration between Claude Code AI assistant and Neovim ☆`1,646`
+### Emacs
+
+- [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) — Claude Code IDE integration for Emacs ☆`1,200`
+- [stevemolitor/claude-code.el](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`555`
+## CLI Assistants
 
 - [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) — Large language model in the terminal! Less `--help` and `man` and more getting stuff done ☆`120`
 - [pmusolino/AI-Git-Narrator](https://github.com/pmusolino/AI-Git-Narrator) — Command-line tool for generating Git commit messages and PR descriptions with AI. Supports staged/unstaged changes and customizable AI parameters. ☆`115`
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) — AI assistant for the command line ☆`57`
+- [Strawberry-Computer/poorcoder](https://github.com/Strawberry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`49`
+- [BrodaNoel/cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Natural language shell command generator and executor powered by AI ☆`33`
+## Generators
+
+### App
+
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`18,721`
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform: notebook and AI app builder ☆`3,428`
+### UI
+
+- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) — Generate React and Tailwind components using AI ☆`1,235`
+## SDKs & Libraries
+
+### Go
+
+- [googleapis/go-genai](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`943`
+### PHP & Laravel
+
+- [google-gemini-php/laravel](https://github.com/google-gemini-php/laravel) — Gemini PHP for Laravel is a community-maintained PHP API client that allows you to interact with the Gemini AI API. ☆`569`
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) — Laravel Slower: Optimize Your DB Queries with AI ☆`395`
+- [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — High quality automatic translate your language files into many languages using AI like Claude, GPT and etc. ☆`241`
+- [grok-php/laravel](https://github.com/grok-php/laravel) — Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity. ☆`162`
+- [tott/laravel-tall-claude-ai-configs](https://github.com/tott/laravel-tall-claude-ai-configs) — AI Assisted Laravel TALL stack coding configuration for Claude Code ☆`35`
+## Documentation
+
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,828`
 ## Testing
 
 - [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) — Open Source, Language Agnostic Mutation Testing ☆`286`
-## UI generators
-
-- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) — Generate React and Tailwind components using AI ☆`1,235`
 ## Other
 
 - [clidey/whodb](https://github.com/clidey/whodb) — A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface ☆`4,410`
