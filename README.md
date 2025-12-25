@@ -7,6 +7,8 @@
 
 AI and machine learning projects hosted on GitHub. This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
 
+> Looking for MCP servers? Check out [Awesome MCP](https://github.com/abordage/awesome-mcp) — a curated list of Model Context Protocol servers, clients, and frameworks.
+
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
 - [AI Coding Agents](#ai-coding-agents)
