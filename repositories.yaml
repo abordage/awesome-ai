@@ -6,98 +6,139 @@ categories:
       - name: General Purpose
         repos:
           - url: https://github.com/smol-ai/developer
+            description: Embed a developer agent in apps
           - url: https://github.com/Aider-AI/aider
           - url: https://github.com/seahyinghang8/blinky
           - url: https://github.com/AntonOsika/gpt-engineer
             description: CLI platform to experiment with codegen
           - url: https://github.com/joshpxyne/gpt-migrate
+            description: Migrate codebase between frameworks
           - url: https://github.com/melih-unsal/DemoGPT
+            description: Create LLM agents with tools
           - url: https://github.com/kuafuai/DevOpsGPT
+            description: Multi-agent AI-driven development
           - url: https://github.com/zylon-ai/private-gpt
+            description: Chat with documents using LLMs
           - url: https://github.com/mckaywrigley/chatbot-ui
           - url: https://github.com/nomic-ai/gpt4all
+            description: Run local LLMs on any device
           - url: https://github.com/plandex-ai/plandex
+            description: AI coding agent for large projects
           - url: https://github.com/QuivrHQ/quivr
+            description: RAG for GenAI in apps
           - url: https://github.com/splx-ai/agentic-radar
           - url: https://github.com/stravu/crystal
+            description: Run multiple AI sessions in parallel
           - url: https://github.com/Nayjest/Gito
+            description: AI-powered GitHub code review
           - url: https://github.com/Strawberry-Computer/vibe-compiler
-            description: 'RAG for integrating GenAI in your apps. Any LLM: GPT4, Groq, Llama.
-        Any Vectorstore: PGVector, Faiss.'
+            description: RAG for integrating GenAI in apps
           - url: https://github.com/silvanmelchior/IncognitoPilot
       - name: Claude Code
         repos:
           - url: https://github.com/icanhasjonas/run-claude-docker
           - url: https://github.com/JSONbored/claudepro-directory
+            description: Searchable Claude Pro project collection
           - url: https://github.com/viveknair/ccoutputstyles
+            description: Customize Claude Code output styles
           - url: https://github.com/ayoubben18/ab-method
+            description: AI-powered software development
           - url: https://github.com/automazeio/ccpm
+            description: Project management for Claude Code
           - url: https://github.com/OneRedOak/claude-code-workflows
+            description: Best workflows for Claude Code
           - url: https://github.com/Helmi/claude-simone
+            description: Project management for AI dev
           - url: https://github.com/Veraticus/cc-tools
           - url: https://github.com/nyatinte/ccexp
+            description: Terminal interface for Claude extensions
           - url: https://github.com/eckardt/cchistory
           - url: https://github.com/Brads3290/cclogviewer
           - url: https://github.com/davila7/claude-code-templates
           - url: https://github.com/claude-did-this/claude-hub
+            description: Webhook service for Claude + GitHub
           - url: https://github.com/pchalasani/claude-code-tools
+            description: Productivity tools for Claude Code
           - url: https://github.com/carlrannaberg/claudekit
+            description: Custom commands and hooks for Claude
           - url: https://github.com/SuperClaude-Org/SuperClaude_Framework
+            description: Configuration framework for Claude Code
           - url: https://github.com/Piebald-AI/tweakcc
+            description: Customize Claude Code prompts
           - url: https://github.com/ryoppippi/ccusage
+            description: Analyze Claude Code usage stats
           - url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+            description: Claude Code usage monitor
           - url: https://github.com/sculptdotfun/viberank
           - url: https://github.com/ruvnet/claude-flow
+            description: Agent orchestration for Claude
           - url: https://github.com/smtg-ai/claude-squad
+            description: Manage multiple AI terminal agents
           - url: https://github.com/parruda/claude-swarm
           - url: https://github.com/slopus/happy
+            description: Mobile/Web client for Codex and Claude
           - url: https://github.com/dtormoen/tsk
           - url: https://github.com/sirmalloc/ccstatusline
+            description: Custom statusline for Claude Code
           - url: https://github.com/rz1989s/claude-code-statusline
           - url: https://github.com/Owloops/claude-powerline
           - url: https://github.com/dazuiba/CCNotify
+            description: Desktop notifications for Claude Code
           - url: https://github.com/GowayLee/cchooks
           - url: https://github.com/beyondcode/claude-hooks-sdk
           - url: https://github.com/johnlindquist/claude-hooks
           - url: https://github.com/nizos/tdd-guard
           - url: https://github.com/bartolli/claude-code-typescript-hooks
           - url: https://github.com/anthropics/claude-quickstarts
+            description: Quick start projects for Claude
           - url: https://github.com/anthropics/claude-code-action
-            description: A general-purpose Claude Code action for GitHub PRs and issues
+            description: Claude Code action for GitHub PRs
       - name: Gemini CLI
         repos:
           - url: https://github.com/google-gemini/gemini-cli
+            description: AI agent with Gemini in terminal
           - url: https://github.com/google-gemini/cookbook
           - url: https://github.com/google-github-actions/run-gemini-cli
           - url: https://github.com/Piebald-AI/gemini-desktop
           - url: https://github.com/gzzhongqi/geminicli2api
           - url: https://github.com/Brioch/gemini-openai-proxy
+            description: Serve Gemini models via OpenAI API
           - url: https://github.com/GewoonJaap/gemini-cli-openai
+            description: Gemini CLI as OpenAI API endpoint
           - url: https://github.com/nettee/gemini-cli-proxy
+            description: Gemini CLI as OpenAI-compatible API
           - url: https://github.com/Jasonzhangf/gemini-cli-router
           - url: https://github.com/automateyournetwork/GeminiCLI_Slash_Listen
           - url: https://github.com/amitkmaraj/gemini-cli-custom-slash-commands
+            description: Custom slash commands for Gemini CLI
           - url: https://github.com/clduab11/gemini-flow
+            description: Claude-Flow for Gemini CLI
           - url: https://github.com/openmule/gacua
+            description: Out-of-the-box computer use agent
           - url: https://github.com/Theopsguide/gemini-code-flow
+            description: AI dev orchestration for Gemini CLI
       - name: PR & Review
         repos:
           - url: https://github.com/sweepai/sweep
           - url: https://github.com/mattzcarey/shippie
           - url: https://github.com/qodo-ai/pr-agent
+            description: AI-powered PR reviewer
           - url: https://github.com/keerthanpg/SwePT
           - url: https://github.com/Yuyz0112/dewhale
+            description: GitHub-powered AI development
   - name: IDE & Editor
     subcategories:
       - name: Extensions
         repos:
           - url: https://github.com/smallcloudai/refact
+            description: AI agent for engineering tasks
           - url: https://github.com/codota/TabNine
           - url: https://github.com/rubberduck-ai/rubberduck-vscode
           - url: https://github.com/kesor/chatgpt-code-plugin
       - name: Neovim
         repos:
           - url: https://github.com/greggh/claude-code.nvim
+            description: Claude Code integration for Neovim
       - name: Emacs
         repos:
           - url: https://github.com/manzaltu/claude-code-ide.el
@@ -109,12 +150,15 @@ categories:
       - url: https://github.com/beyimjan/shell-whiz
       - url: https://github.com/closedLoop-technologies/autocomplete-sh
       - url: https://github.com/pmusolino/AI-Git-Narrator
+        description: AI-generated Git commit messages
   - name: Generators
     subcategories:
       - name: App
         repos:
           - url: https://github.com/stackblitz-labs/bolt.diy
+            description: Prompt and deploy full-stack web apps
           - url: https://github.com/srcbookdev/srcbook
+            description: TypeScript app development platform
       - name: UI
         repos:
           - url: https://github.com/rapidpages/rapidpages
@@ -123,14 +167,19 @@ categories:
       - name: Go
         repos:
           - url: https://github.com/googleapis/go-genai
+            description: Google Gen AI SDK for Go
       - name: PHP & Laravel
         repos:
           - url: https://github.com/kargnas/laravel-ai-translator
+            description: Auto-translate Laravel language files
           - url: https://github.com/google-gemini-php/laravel
+            description: Gemini PHP API for Laravel
           - url: https://github.com/grok-php/laravel
+            description: Grok AI integration for Laravel
           - url: https://github.com/tott/laravel-tall-claude-ai-configs
+            description: Laravel TALL stack AI configs
           - url: https://github.com/halilcosdu/laravel-slower
-            description: 'Laravel Slower: Optimize Your DB Queries with AI'
+            description: Laravel Slower - Optimize Your DB Queries with AI
   - name: Documentation
     repos:
       - url: https://github.com/eli64s/readme-ai
@@ -140,4 +189,6 @@ categories:
   - name: Other
     repos:
       - url: https://github.com/av/harbor
+        description: Run LLM backends and APIs easily
       - url: https://github.com/clidey/whodb
+        description: Lightweight next-gen data explorer
