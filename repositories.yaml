@@ -88,7 +88,6 @@ categories:
           - url: https://github.com/dtormoen/tsk
           - url: https://github.com/sirmalloc/ccstatusline
             description: Custom statusline for Claude Code
-          - url: https://github.com/rz1989s/claude-code-statusline
           - url: https://github.com/Owloops/claude-powerline
           - url: https://github.com/dazuiba/CCNotify
             description: Desktop notifications for Claude Code
