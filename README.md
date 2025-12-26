@@ -14,6 +14,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
+
 - [AI Coding Agents](#ai-coding-agents)
   - [General Purpose](#general-purpose)
   - [Claude Code](#claude-code)
