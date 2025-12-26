@@ -94,8 +94,10 @@ categories:
           - url: https://github.com/GowayLee/cchooks
           - url: https://github.com/beyondcode/claude-hooks-sdk
           - url: https://github.com/johnlindquist/claude-hooks
+            description: TypeScript hook system for Claude Code with type safety
           - url: https://github.com/nizos/tdd-guard
           - url: https://github.com/bartolli/claude-code-typescript-hooks
+            description: Quality check hooks for Claude Code projects
           - url: https://github.com/anthropics/claude-quickstarts
             description: Quick start projects for Claude
           - url: https://github.com/anthropics/claude-code-action
@@ -109,6 +111,7 @@ categories:
           - url: https://github.com/Piebald-AI/gemini-cli-desktop
             description: Desktop UI for Gemini CLI
           - url: https://github.com/gzzhongqi/geminicli2api
+            description: Proxy converting Gemini CLI to OpenAI-compatible API
           - url: https://github.com/Brioch/gemini-openai-proxy
             description: Serve Gemini models via OpenAI API
           - url: https://github.com/GewoonJaap/gemini-cli-openai
