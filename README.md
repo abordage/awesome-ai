@@ -1,9 +1,9 @@
 # Awesome AI
 
-![Awesome](https://awesome.re/badge.svg)
+![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
-![Repositories](https://img.shields.io/badge/repositories-92-blue)
-![Total Stars](https://img.shields.io/badge/total%20stars-632,183-yellow)
+![Repositories](https://img.shields.io/badge/repositories-92-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-632,183-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
 **Automated. Curated. Ranked.**
