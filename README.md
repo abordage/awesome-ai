@@ -1,6 +1,9 @@
 # Awesome AI
 
+![Awesome](https://awesome.re/badge.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
+![Repositories](https://img.shields.io/badge/repositories-92-blue)
+![Total Stars](https://img.shields.io/badge/total%20stars-632,183-yellow)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
 **Automated. Curated. Ranked.**
