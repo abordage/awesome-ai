@@ -74,7 +74,8 @@ categories:
             description: Agent orchestration for Claude
           - url: https://github.com/smtg-ai/claude-squad
             description: Manage multiple AI terminal agents
-          - url: https://github.com/parruda/claude-swarm
+          - url: https://github.com/parruda/swarm
+            description: Ruby gems for AI agent systems
           - url: https://github.com/slopus/happy
             description: Mobile/Web client for Codex and Claude
           - url: https://github.com/dtormoen/tsk
@@ -99,7 +100,8 @@ categories:
             description: AI agent with Gemini in terminal
           - url: https://github.com/google-gemini/cookbook
           - url: https://github.com/google-github-actions/run-gemini-cli
-          - url: https://github.com/Piebald-AI/gemini-desktop
+          - url: https://github.com/Piebald-AI/gemini-cli-desktop
+            description: Desktop UI for Gemini CLI
           - url: https://github.com/gzzhongqi/geminicli2api
           - url: https://github.com/Brioch/gemini-openai-proxy
             description: Serve Gemini models via OpenAI API
@@ -133,7 +135,8 @@ categories:
           - url: https://github.com/smallcloudai/refact
             description: AI agent for engineering tasks
           - url: https://github.com/codota/TabNine
-          - url: https://github.com/rubberduck-ai/rubberduck-vscode
+          - url: https://github.com/lgrammel/rubberduck-vscode
+            description: AI-powered code edits in VS Code
           - url: https://github.com/kesor/chatgpt-code-plugin
       - name: Neovim
         repos:
@@ -148,7 +151,8 @@ categories:
       - url: https://github.com/Strawberry-Computer/poorcoder
       - url: https://github.com/BrodaNoel/cmd-ai
       - url: https://github.com/beyimjan/shell-whiz
-      - url: https://github.com/closedLoop-technologies/autocomplete-sh
+      - url: https://github.com/closedloop-technologies/autocomplete-sh
+        description: LLM autocomplete in terminal
       - url: https://github.com/pmusolino/AI-Git-Narrator
         description: AI-generated Git commit messages
   - name: Generators
