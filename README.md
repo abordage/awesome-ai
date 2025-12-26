@@ -14,7 +14,6 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
-
 - [AI Coding Agents](#ai-coding-agents)
   - [General Purpose](#general-purpose)
   - [Claude Code](#claude-code)
@@ -157,6 +156,8 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — Auto-translate Laravel language files ☆`241`
 - [grok-php/laravel](https://github.com/grok-php/laravel) — Grok AI integration for Laravel ☆`162`
 - [tott/laravel-tall-claude-ai-configs](https://github.com/tott/laravel-tall-claude-ai-configs) — Laravel TALL stack AI configs ☆`36`
+
+
 
 
 ## Contributing
