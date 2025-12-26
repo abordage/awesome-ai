@@ -34,6 +34,13 @@ categories:
           - url: https://github.com/Strawberry-Computer/vibe-compiler
             description: RAG for integrating GenAI in apps
           - url: https://github.com/silvanmelchior/IncognitoPilot
+          - url: https://github.com/Strawberry-Computer/poorcoder
+          - url: https://github.com/BrodaNoel/cmd-ai
+          - url: https://github.com/beyimjan/shell-whiz
+          - url: https://github.com/closedloop-technologies/autocomplete-sh
+            description: LLM autocomplete in terminal
+          - url: https://github.com/pmusolino/AI-Git-Narrator
+            description: AI-generated Git commit messages
       - name: Claude Code
         repos:
           - url: https://github.com/icanhasjonas/run-claude-docker
@@ -128,6 +135,21 @@ categories:
           - url: https://github.com/keerthanpg/SwePT
           - url: https://github.com/Yuyz0112/dewhale
             description: GitHub-powered AI development
+          - url: https://github.com/codeintegrity-ai/mutahunter
+  - name: Generators
+    subcategories:
+      - name: App
+        repos:
+          - url: https://github.com/stackblitz-labs/bolt.diy
+            description: Prompt and deploy full-stack web apps
+          - url: https://github.com/srcbookdev/srcbook
+            description: TypeScript app development platform
+      - name: UI
+        repos:
+          - url: https://github.com/rapidpages/rapidpages
+      - name: Documentation
+        repos:
+          - url: https://github.com/eli64s/readme-ai
   - name: IDE & Editor
     subcategories:
       - name: Extensions
@@ -146,26 +168,6 @@ categories:
         repos:
           - url: https://github.com/manzaltu/claude-code-ide.el
           - url: https://github.com/stevemolitor/claude-code.el
-  - name: CLI Assistants
-    repos:
-      - url: https://github.com/Strawberry-Computer/poorcoder
-      - url: https://github.com/BrodaNoel/cmd-ai
-      - url: https://github.com/beyimjan/shell-whiz
-      - url: https://github.com/closedloop-technologies/autocomplete-sh
-        description: LLM autocomplete in terminal
-      - url: https://github.com/pmusolino/AI-Git-Narrator
-        description: AI-generated Git commit messages
-  - name: Generators
-    subcategories:
-      - name: App
-        repos:
-          - url: https://github.com/stackblitz-labs/bolt.diy
-            description: Prompt and deploy full-stack web apps
-          - url: https://github.com/srcbookdev/srcbook
-            description: TypeScript app development platform
-      - name: UI
-        repos:
-          - url: https://github.com/rapidpages/rapidpages
   - name: SDKs & Libraries
     subcategories:
       - name: Go
@@ -184,15 +186,6 @@ categories:
             description: Laravel TALL stack AI configs
           - url: https://github.com/halilcosdu/laravel-slower
             description: Laravel Slower - Optimize Your DB Queries with AI
-  - name: Documentation
-    repos:
-      - url: https://github.com/eli64s/readme-ai
-  - name: Testing
-    repos:
-      - url: https://github.com/codeintegrity-ai/mutahunter
-  - name: Other
     repos:
       - url: https://github.com/av/harbor
         description: Run LLM backends and APIs easily
-      - url: https://github.com/clidey/whodb
-        description: Lightweight next-gen data explorer
