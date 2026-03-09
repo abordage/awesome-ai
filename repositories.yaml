@@ -86,6 +86,7 @@ categories:
           - url: https://github.com/slopus/happy
             description: Mobile/Web client for Codex and Claude
           - url: https://github.com/dtormoen/tsk
+            description: Sandboxed coding agent automation to keep agents out of trouble
           - url: https://github.com/sirmalloc/ccstatusline
             description: Custom statusline for Claude Code
           - url: https://github.com/Owloops/claude-powerline
@@ -162,6 +163,7 @@ categories:
           - url: https://github.com/lgrammel/rubberduck-vscode
             description: AI-powered code edits in VS Code
           - url: https://github.com/kesor/chatgpt-code-plugin
+            description: TypeScript Code Analyzer for ChatGPT to talk with code
       - name: Neovim
         repos:
           - url: https://github.com/greggh/claude-code.nvim
