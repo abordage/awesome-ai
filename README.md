@@ -84,7 +84,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory) — Searchable Claude Pro project collection ☆`192`
 - [bartolli/claude-code-typescript-hooks](https://github.com/bartolli/claude-code-typescript-hooks) — Quality check hooks for Claude Code projects ☆`169`
 - [dazuiba/CCNotify](https://github.com/dazuiba/CCNotify) — Desktop notifications for Claude Code ☆`161`
-- [dtormoen/tsk-tsk](https://github.com/dtormoen/tsk-tsk) — Keeping your agents out of trouble with sandboxed coding agent automation ☆`146`
+- [dtormoen/tsk-tsk](https://github.com/dtormoen/tsk-tsk) — Sandboxed coding agent automation to keep agents out of trouble ☆`146`
 - [ayoubben18/ab-method](https://github.com/ayoubben18/ab-method) — AI-powered software development ☆`142`
 - [eckardt/cchistory](https://github.com/eckardt/cchistory) — Like the shell history command but for your Claude Code sessions. ☆`105`
 - [GowayLee/cchooks](https://github.com/GowayLee/cchooks) — A Python SDK for claude-code hooks ☆`119`
@@ -135,7 +135,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [codota/TabNine](https://github.com/codota/TabNine) — AI Code Completions ☆`10,808`
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) — AI agent for engineering tasks ☆`3,511`
 - [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) — AI-powered code edits in VS Code ☆`632`
-- [kesor/chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) — Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code ☆`240`
+- [kesor/chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) — TypeScript Code Analyzer for ChatGPT to talk with code ☆`240`
 ### Neovim
 
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) — Claude Code integration for Neovim ☆`1,895`
