@@ -74,6 +74,8 @@ categories:
             description: Customize Claude Code prompts
           - url: https://github.com/ryoppippi/ccusage
             description: Analyze Claude Code usage stats
+          - url: https://github.com/luoyuctl/agenttrace
+            description: Inspect Claude Code and coding-agent session history
           - url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
             description: Claude Code usage monitor
           - url: https://github.com/sculptdotfun/viberank
