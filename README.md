@@ -2,8 +2,8 @@
 
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
-![Repositories](https://img.shields.io/badge/repositories-89-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-697,695-gold)
+![Repositories](https://img.shields.io/badge/repositories-90-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-697,771-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
 **Automated. Curated. Ranked.**
@@ -38,7 +38,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — Run local LLMs on any device ☆`77,363`
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Chat with documents using LLMs ☆`57,212`
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`44,875`
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`44,900`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) — RAG for GenAI in apps ☆`39,153`
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. ☆`33,242`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — AI coding agent for large projects ☆`15,368`
@@ -46,7 +46,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — Multi-agent AI-driven development ☆`5,957`
 - [stravu/crystal](https://github.com/stravu/crystal) — Run multiple AI sessions in parallel ☆`3,057`
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) — Create LLM agents with tools ☆`1,897`
-- [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`965`
+- [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`966`
 - [Nayjest/Gito](https://github.com/Nayjest/Gito) — AI-powered GitHub code review ☆`236`
 - [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) — LLM autocomplete in terminal ☆`143`
 - [pmusolino/AI-Git-Narrator](https://github.com/pmusolino/AI-Git-Narrator) — AI-generated Git commit messages ☆`118`
@@ -91,6 +91,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [beyondcode/claude-hooks-sdk](https://github.com/beyondcode/claude-hooks-sdk) — A PHP SDK for building Claude Code hooks ☆`65`
 - [Brads3290/cclogviewer](https://github.com/Brads3290/cclogviewer) — Review Claude Code .jsonl files with a nice HTML UI ☆`84`
 - [joshsymonds/cc-tools](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`50`
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — Inspect Claude Code and coding-agent session history ☆`35`
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) — Customize Claude Code output styles ☆`52`
 ### Gemini CLI
 
@@ -109,8 +110,8 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [automateyournetwork/GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) — A /listen feature for Gemini CLI ☆`20`
 ### PR & Review
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`11,220`
-- [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,714`
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`11,226`
+- [sweepai/sweep](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,716`
 - [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,356`
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-powered AI development ☆`1,552`
 - [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) — Open Source, Language Agnostic Mutation Testing ☆`296`
@@ -118,7 +119,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 ### App
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,361`
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,368`
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript app development platform ☆`3,448`
 ### UI
 
