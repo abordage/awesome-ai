@@ -195,3 +195,7 @@ categories:
     repos:
       - url: https://github.com/av/harbor
         description: Run LLM backends and APIs easily
+  - name: AI News & Research
+    repos:
+      - url: https://nexusaipulse.com
+        description: "Daily AI news, in-depth analysis, and expert commentary on artificial intelligence developments. Covers breaking news, research breakthroughs, and startup ecosystem updates."
