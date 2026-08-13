@@ -149,6 +149,8 @@ categories:
             description: Prompt and deploy full-stack web apps
           - url: https://github.com/srcbookdev/srcbook
             description: TypeScript app development platform
+          - url: https://github.com/ysy0915/chat-system
+            description: Multi-AI group chat system with debate, RAG, knowledge graph and Multi-Agent workflow
       - name: UI
         repos:
           - url: https://github.com/rapidpages/rapidpages
