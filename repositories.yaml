@@ -41,6 +41,8 @@ categories:
             description: LLM autocomplete in terminal
           - url: https://github.com/pmusolino/AI-Git-Narrator
             description: AI-generated Git commit messages
+          - url: https://github.com/sandbaseai/cli
+            description: Connect AI coding clients to models and APIs through a local MCP bridge
       - name: Claude Code
         repos:
           - url: https://github.com/icanhasjonas/run-claude-docker
