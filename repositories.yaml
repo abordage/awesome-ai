@@ -79,6 +79,7 @@ categories:
           - url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
             description: Claude Code usage monitor
           - url: https://github.com/sculptdotfun/viberank
+            description: AI coding usage leaderboard with real token costs
           - url: https://github.com/ruvnet/claude-flow
             description: Agent orchestration for Claude
           - url: https://github.com/smtg-ai/claude-squad
