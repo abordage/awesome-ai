@@ -106,6 +106,8 @@ categories:
             description: Quick start projects for Claude
           - url: https://github.com/anthropics/claude-code-action
             description: Claude Code action for GitHub PRs
+          - url: https://github.com/yylo-dev/yylo
+            description: Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries
       - name: Gemini CLI
         repos:
           - url: https://github.com/google-gemini/gemini-cli
