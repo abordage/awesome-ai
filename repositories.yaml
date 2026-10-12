@@ -198,3 +198,5 @@ categories:
     repos:
       - url: https://github.com/av/harbor
         description: Run LLM backends and APIs easily
+      - url: https://github.com/Orkas-AI/Orkas-VideoStudio
+        description: MIT-licensed, local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit and assemble video from editable plans.
