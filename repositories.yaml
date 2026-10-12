@@ -41,6 +41,8 @@ categories:
             description: LLM autocomplete in terminal
           - url: https://github.com/pmusolino/AI-Git-Narrator
             description: AI-generated Git commit messages
+          - url: https://github.com/Orkas-AI/Orkas
+            description: Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents with private skills and memory.
       - name: Claude Code
         repos:
           - url: https://github.com/icanhasjonas/run-claude-docker
