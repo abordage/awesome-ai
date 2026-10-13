@@ -41,6 +41,8 @@ categories:
             description: LLM autocomplete in terminal
           - url: https://github.com/pmusolino/AI-Git-Narrator
             description: AI-generated Git commit messages
+          - url: https://github.com/orbi-build/orbi
+            description: Labeled GitHub issue to reviewed, merged PR and release
       - name: Claude Code
         repos:
           - url: https://github.com/icanhasjonas/run-claude-docker
