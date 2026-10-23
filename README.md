@@ -3,7 +3,7 @@
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-ai?label=last%20update)](README.md)
 ![Repositories](https://img.shields.io/badge/repositories-84-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-693,337-gold)
+![Total Stars](https://img.shields.io/badge/total%20stars-693,892-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-ai)](LICENSE)
 
 **Automated. Curated. Ranked.**
@@ -36,54 +36,54 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 ### General Purpose
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — Run local LLMs on any device ☆`77,352`
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Chat with documents using LLMs ☆`57,601`
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`49,690`
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) — RAG for GenAI in apps ☆`39,601`
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — AI coding agent for large projects ☆`15,771`
-- [stravu/crystal](https://github.com/stravu/crystal) — Run multiple AI sessions in parallel ☆`3,134`
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — Chat with documents using LLMs ☆`57,606`
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`49,702`
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) — RAG for GenAI in apps ☆`39,602`
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) — AI coding agent for large projects ☆`15,775`
+- [stravu/crystal](https://github.com/stravu/crystal) — Run multiple AI sessions in parallel ☆`3,131`
 - [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`1,058`
-- [Nayjest/Gito](https://github.com/Nayjest/Gito) — AI-powered GitHub code review ☆`450`
+- [Nayjest/Gito](https://github.com/Nayjest/Gito) — AI-powered GitHub code review ☆`451`
 - [orbi-build/orbi](https://github.com/orbi-build/orbi) — Labeled GitHub issue to reviewed, merged PR and release ☆`225`
 - [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) — LLM autocomplete in terminal ☆`162`
+- [benord-labs/frink](https://github.com/benord-labs/frink) — Desktop-first app for parallel agents and triggered multi-step workflows ☆`142`
 - [pmusolino/AI-Git-Narrator](https://github.com/pmusolino/AI-Git-Narrator) — AI-generated Git commit messages ☆`121`
-- [benord-labs/frink](https://github.com/benord-labs/frink) — Desktop-first app for parallel agents and triggered multi-step workflows ☆`95`
 - [Berrry-Computer/vibe-compiler](https://github.com/Berrry-Computer/vibe-compiler) — RAG for integrating GenAI in apps ☆`70`
 - [Berrry-Computer/poorcoder](https://github.com/Berrry-Computer/poorcoder) — DIY Poor Man's AI Coder ☆`60`
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) — AI assistant for the command line ☆`60`
 - [BrodaNoel/cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Natural language shell command generator and executor powered by AI ☆`53`
 ### Claude Code
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Agent orchestration for Claude ☆`78,266`
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`32,822`
-- [slopus/happy](https://github.com/slopus/happy) — Mobile/Web client for Codex and Claude ☆`24,258`
-- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) — Configuration framework for Claude Code ☆`23,906`
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — Quick start projects for Claude ☆`18,941`
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) — Analyze Claude Code usage stats ☆`19,122`
-- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Custom statusline for Claude Code ☆`13,364`
-- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) — Claude Code action for GitHub PRs ☆`9,605`
-- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Claude Code usage monitor ☆`8,755`
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents ☆`8,645`
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Agent orchestration for Claude ☆`78,562`
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`32,846`
+- [slopus/happy](https://github.com/slopus/happy) — Mobile/Web client for Codex and Claude ☆`24,275`
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) — Configuration framework for Claude Code ☆`23,909`
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — Quick start projects for Claude ☆`18,960`
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) — Analyze Claude Code usage stats ☆`19,144`
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Custom statusline for Claude Code ☆`13,377`
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) — Claude Code action for GitHub PRs ☆`9,612`
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Claude Code usage monitor ☆`8,758`
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents ☆`8,652`
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) — Project management for Claude Code ☆`8,414`
-- [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) — Best workflows for Claude Code ☆`3,908`
+- [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) — Best workflows for Claude Code ☆`3,909`
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code prompts ☆`2,556`
-- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`2,364`
-- [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) — Productivity tools for Claude Code ☆`2,020`
-- [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline for Claude Code ☆`1,173`
+- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`2,366`
+- [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) — Productivity tools for Claude Code ☆`2,022`
+- [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline for Claude Code ☆`1,175`
 - [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) — Custom commands and hooks for Claude ☆`763`
 - [Helmi/claude-simone](https://github.com/Helmi/claude-simone) — Project management for AI dev ☆`559`
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) — Webhook service for Claude + GitHub ☆`489`
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) — TypeScript hook system for Claude Code with type safety ☆`396`
-- [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) — Searchable Claude Pro project collection ☆`304`
+- [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) — Searchable Claude Pro project collection ☆`303`
 - [nyatinte/ccexp](https://github.com/nyatinte/ccexp) — Terminal interface for Claude extensions ☆`270`
 - [ayoubben18/ab-method](https://github.com/ayoubben18/ab-method) — AI-powered software development ☆`192`
 - [dazuiba/CCNotify](https://github.com/dazuiba/CCNotify) — Desktop notifications for Claude Code ☆`215`
 - [dtormoen/tsk-tsk](https://github.com/dtormoen/tsk-tsk) — Sandboxed coding agent automation to keep agents out of trouble ☆`171`
 - [bartolli/claude-code-typescript-hooks](https://github.com/bartolli/claude-code-typescript-hooks) — Quality check hooks for Claude Code projects ☆`179`
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — Inspect Claude Code and coding-agent session history ☆`148`
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — Inspect Claude Code and coding-agent session history ☆`150`
+- [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) — AI coding usage leaderboard with real token costs ☆`120`
 - [eckardt/cchistory](https://github.com/eckardt/cchistory) — Like the shell history command but for your Claude Code sessions. ☆`138`
-- [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) — AI coding usage leaderboard with real token costs ☆`119`
 - [GowayLee/cchooks](https://github.com/GowayLee/cchooks) — A Python SDK for claude-code hooks ☆`131`
-- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries ☆`65`
+- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries ☆`66`
 - [icanhasjonas/run-claude-docker](https://github.com/icanhasjonas/run-claude-docker) — Run claude code in somewhat safe and isolated yolo mode ☆`85`
 - [Brads3290/cclogviewer](https://github.com/Brads3290/cclogviewer) — Review Claude Code .jsonl files with a nice HTML UI ☆`85`
 - [beyondcode/claude-hooks-sdk](https://github.com/beyondcode/claude-hooks-sdk) — A PHP SDK for building Claude Code hooks ☆`68`
@@ -91,8 +91,8 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) — Customize Claude Code output styles ☆`55`
 ### Gemini CLI
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — AI agent with Gemini in terminal ☆`107,493`
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`17,853`
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — AI agent with Gemini in terminal ☆`107,534`
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`17,856`
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`2,111`
 - [GewoonJaap/gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) — Gemini CLI as OpenAI API endpoint ☆`895`
 - [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api) — Proxy converting Gemini CLI to OpenAI-compatible API ☆`591`
@@ -106,7 +106,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [automateyournetwork/GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) — A /listen feature for Gemini CLI ☆`21`
 ### PR & Review
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`13,540`
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`13,560`
 - [mattzcarey/shippie](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,510`
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-powered AI development ☆`1,537`
 - [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) — Open Source, Language Agnostic Mutation Testing ☆`303`
@@ -114,12 +114,12 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 
 ### App
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,979`
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,982`
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) — TypeScript app development platform ☆`3,436`
 - [ysy0915/chat-system](https://github.com/ysy0915/chat-system) — Multi-AI group chat system with debate, RAG, knowledge graph and Multi-Agent workflow ☆`17`
 ### Documentation
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`3,005`
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`3,006`
 ## IDE & Editor
 
 ### Extensions
@@ -134,7 +134,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [stevemolitor/claude-code.el](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`746`
 ## SDKs & Libraries
 
-- [av/harbor](https://github.com/av/harbor) — Run LLM backends and APIs easily ☆`3,249`
+- [av/harbor](https://github.com/av/harbor) — Run LLM backends and APIs easily ☆`3,248`
 ### Go
 
 - [googleapis/go-genai](https://github.com/googleapis/go-genai) — Google Gen AI SDK for Go ☆`1,202`
