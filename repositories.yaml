@@ -112,6 +112,8 @@ categories:
             description: Claude Code action for GitHub PRs
           - url: https://github.com/yylo-dev/yylo
             description: Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries
+          - url: https://github.com/f-o-x11/deed-page-skill
+            description: Skill and remote MCP to publish HTML or static sites to a public URL
       - name: Gemini CLI
         repos:
           - url: https://github.com/google-gemini/gemini-cli
